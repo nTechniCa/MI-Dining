@@ -1,0 +1,250 @@
+{
+    "Bursley": {
+        "Sunday": {
+            "Breakfast": [
+                9,
+                10.5
+            ],
+            "Brunch": [
+                10.5,
+                14
+            ],
+            "Dinner": [
+                16.5,
+                21
+            ]
+        },
+        "Monday - Thursday": {
+            "Breakfast": [
+                7,
+                10.5
+            ],
+            "Lunch": [
+                10.5,
+                16.5
+            ],
+            "Dinner": [
+                16.5,
+                21
+            ]
+        },
+        "Friday": {
+            "Breakfast": [
+                7,
+                10.5
+            ],
+            "Lunch": [
+                10.5,
+                16.5
+            ],
+            "Dinner": [
+                16.5,
+                20
+            ]
+        },
+        "Saturday": {
+            "Breakfast": [
+                9,
+                10.5
+            ],
+            "Brunch": [
+                10.5,
+                14
+            ],
+            "Dinner": [
+                16.5,
+                20
+            ]
+        }
+    },
+    "East Quad": {
+        "Monday - Friday": {
+            "Breakfast": [
+                7,
+                10.5
+            ],
+            "Lunch": [
+                10.5,
+                15
+            ],
+            "Dinner": [
+                16.5,
+                20
+            ]
+        },
+        "Saturday - Sunday": {
+            "Breakfast": [
+                9,
+                10.5
+            ],
+            "Brunch": [
+                10.5,
+                14
+            ],
+            "Dinner": [
+                16.5,
+                20
+            ]
+        }
+    },
+    "Markley": {
+        "Monday - Friday": {
+            "Breakfast": [
+                7,
+                10.5
+            ],
+            "Lunch": [
+                10.5,
+                15
+            ],
+            "Dinner": [
+                16.5,
+                20
+            ]
+        },
+        "Saturday - Sunday": {
+            "Brunch": [
+                10.5,
+                14
+            ]
+        }
+    },
+    "Mosher-Jordan": {
+        "Sunday": {
+            "Breakfast": [
+                9,
+                10.5
+            ],
+            "Brunch": [
+                10.5,
+                14
+            ],
+            "Dinner": [
+                16.5,
+                21
+            ]
+        },
+        "Monday - Thursday": {
+            "Breakfast": [
+                7,
+                10.5
+            ],
+            "Lunch": [
+                10.5,
+                16.5
+            ],
+            "Dinner": [
+                16.5,
+                21
+            ]
+        },
+        "Friday": {
+            "Breakfast": [
+                7,
+                10.5
+            ],
+            "Lunch": [
+                10.5,
+                16.5
+            ],
+            "Dinner": [
+                16.5,
+                20
+            ]
+        },
+        "Saturday": {
+            "Breakfast": [
+                9,
+                10.5
+            ],
+            "Brunch": [
+                10.5,
+                14
+            ],
+            "Dinner": [
+                16.5,
+                20
+            ]
+        }
+    },
+    "North Quad": {
+        "Monday - Friday": {
+            "Breakfast": [
+                7,
+                10.5
+            ],
+            "Lunch": [
+                10.5,
+                15
+            ],
+            "Dinner": [
+                16.5,
+                20
+            ]
+        },
+        "Saturday - Sunday": {
+            "Brunch": [
+                10.5,
+                14
+            ]
+        }
+    },
+    "South Quad": {
+        "Sunday": {
+            "Breakfast": [
+                9,
+                10.5
+            ],
+            "Brunch": [
+                10.5,
+                14
+            ],
+            "Dinner": [
+                16.5,
+                21
+            ]
+        },
+        "Monday - Thursday": {
+            "Breakfast": [
+                7,
+                10.5
+            ],
+            "Lunch": [
+                10.5,
+                16.5
+            ],
+            "Dinner": [
+                16.5,
+                21
+            ]
+        },
+        "Friday": {
+            "Breakfast": [
+                7,
+                10.5
+            ],
+            "Lunch": [
+                10.5,
+                16.5
+            ],
+            "Dinner": [
+                16.5,
+                20
+            ]
+        },
+        "Saturday": {
+            "Breakfast": [
+                9,
+                10.5
+            ],
+            "Brunch": [
+                10.5,
+                14
+            ],
+            "Dinner": [
+                16.5,
+                20
+            ]
+        }
+    }
+}
